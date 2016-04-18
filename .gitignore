@@ -1,8 +1,5 @@
 target
 logs
 .idea
-project/.sbtserver*
-project/target
-project/project/target
+.sbtserver*
 RUNNING_PID
-dist
